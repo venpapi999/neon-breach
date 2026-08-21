@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.venpapi999.twa",
+        "sha256_cert_fingerprints": ["B6:96:CA:BC:C9:12:3E:77:30:96:C6:8A:5F:4E:5C:0A:DF:E5:3A:9E:FD:72:79:F8:AC:9B:E6:D9:94:60:38:A2"]
+      }
+    }]
